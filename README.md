@@ -11,7 +11,7 @@ Kicks Shop is an online e-commerce web application designed to simplify the shop
 ### Home Page
 - Displays the home page of the web application after successful login authentication.
 - Includes a profile button with the user's name displayed.
-![alt text](images/image-5.png)
+![alt text](image.png)
 
 ### Shop Page
 - Displays all available shoes in stock, categorized as in-stock and out-of-stock.

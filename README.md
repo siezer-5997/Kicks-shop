@@ -9,21 +9,25 @@ Kicks Shop is an online e-commerce web application designed to simplify the shop
 ### Home Page
 - Displays the home page of the web application after successful login authentication.
 - Includes a profile button with the user's name displayed.
+
 ![alt text](images/image.png)
 
 ### Shop Page
 - Displays all available shoes in stock, categorized as in-stock and out-of-stock.
 - Features product ratings based on user reviews.
 - Allows users to add items to the wishlist and then move them to the cart or remove them from the cart.
+
 ![alt text](images/image-1.png)
 
 ### Browsing Feature
 - Customers can apply filters including category (Men), brands of shoes, and price range.
+
 ![alt text](images/image-2.png)
 
 ### Adding items to Cart
 - A customer can add shoes to cart and can checkout with total amount displayed.
 - Users can also add items to wishlist and remove it from.
+
     ![alt text](images/image-6.png)
 
 ## Getting Started
@@ -58,9 +62,11 @@ XAMPP is used to lauch apache and mysql services to lauch the app and access the
         1. Click on "Admin" next to MySQL
         2. Check if the database exists, if not
         3. Create a database called "online_shop" by clicking on New
+
         ![alt text](images/image-3.png)
         4. Enter "online_shop" as the database name and click create.
         4. Then navigate to SQL tab on the top 
+
         ![alt text](images/image-4.png)
         5. Copy and past the sql queries and Click Go
 
@@ -72,9 +78,12 @@ XAMPP is used to lauch apache and mysql services to lauch the app and access the
     Path looks like: C:/xampp/htdocs/Kicks-shop/
    ```
    - Lastly, lauch the application in the browser by typing
+   ```bash
    localhost/Kicks-shop/index.php
+   ```
 
    You will see the home page or index page:
+
    ![alt text](images/image-5.png)
    
 ## Usage

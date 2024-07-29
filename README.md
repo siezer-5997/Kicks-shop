@@ -1,6 +1,4 @@
-Sure! Here’s a README file for your GitHub project "Kicks Shop":
 
-```markdown
 # Kicks Shop
 
 Kicks Shop is an online e-commerce web application designed to simplify the shopping experience for customers. The platform offers a variety of shoe brands and provides a dynamic and responsive interface for users. The front-end is developed with HTML, CSS, and JavaScript, while the back-end is built using PHP. A relational database is managed using PHPMyAdmin, and data is rendered through AJAX requests.
@@ -95,4 +93,4 @@ If you have any questions or need further assistance, feel free to contact me.
 ---
 
 Enjoy shopping with Kicks Shop!
-```
+

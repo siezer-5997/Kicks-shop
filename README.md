@@ -11,16 +11,23 @@ Kicks Shop is an online e-commerce web application designed to simplify the shop
 ### Home Page
 - Displays the home page of the web application after successful login authentication.
 - Includes a profile button with the user's name displayed.
-![alt text](image-1.png)
+![alt text](image.png)
 
 ### Shop Page
 - Displays all available shoes in stock, categorized as in-stock and out-of-stock.
 - Features product ratings based on user reviews.
 - Allows users to add items to the wishlist and then move them to the cart or remove them from the cart.
-![alt text](image-6.png)
+![alt text](image-1.png)
+
 ### Browsing Feature
 - Customers can apply filters including category (Men), brands of shoes, and price range.
-![alt text](image-7.png)
+![alt text](image-2.png)
+
+### Adding items to Cart
+- A customer can add shoes to cart and can checkout with total amount displayed.
+- Users can also add items to wishlist and remove it from.
+![alt text](image-6.png)
+
 ## Getting Started
 
 ### Prerequisites
